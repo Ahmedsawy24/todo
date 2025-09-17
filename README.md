@@ -1,4 +1,4 @@
-# # Simple To-Do App
+ Simple To-Do App
 
 تطبيق To-Do بسيط لبناء واجهة مستخدم وإدارة مهام محلياً باستخدام `localStorage`.
 
